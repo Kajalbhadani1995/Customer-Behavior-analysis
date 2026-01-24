@@ -12,7 +12,7 @@ This project is created to analysis the customer behaviour. The company is somew
 🔸Missing values in review_rating column was replaced using the average rating of the corresponding product
 🔸Standardized column names to snake_case
 
-🔹Engineered new features:
+####🔹Engineered new features:
 
 🔸Created age_group columm
 
@@ -42,3 +42,7 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 
 
 ![image alt](https://github.com/Kajalbhadani1995/Customer-Behavior-analysis/blob/34b24adf040c99ace7c7f97ead0bdf50eb46267c/Customer%20behavior%20analysis.jpg) 
+
+## 🔑 Key Insight
+
+
