@@ -12,7 +12,7 @@ This project is created to analysis the customer behaviour. The company is somew
 🔸Missing values in review_rating column was replaced using the average rating of the corresponding product
 🔸Standardized column names to snake_case
 
-####🔹Engineered new features:
+#### 🔹Engineered new features:
 
 🔸Created age_group columm
 
