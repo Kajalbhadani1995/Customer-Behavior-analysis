@@ -9,9 +9,7 @@ This project is created to analysis the customer behaviour. The company is somew
 
 🔸Used pandas for cleaning
 
-🔸Missing values in 
-
-review_rating column was replaced using the average rating of the corresponding product
+🔸Missing values in review_rating column was replaced using the average rating of the corresponding product
 🔸Standardized column names to snake_case
 
 🔹Engineered new features:
@@ -20,7 +18,9 @@ review_rating column was replaced using the average rating of the corresponding 
 🔸Created purchase_frequency_days column
 
 Loaded cleaned data into Power BI for analysis and Visualization. 
+
 ## 📌 Business Problem Statement
+
 In today’s competitive retail environment, understanding customer behavior is essential for improving profitability, retention, and long-term growth. The business currently collects large volumes of customer transaction data, but lacks a structured analytical approach to convert this data into meaningful business insights.
 The company is facing challenges in identifying:
 1. Which product category has consistent buying across all age groups?
