@@ -64,3 +64,21 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 * 2847 customers have not taken the subscription so they should add more values or offers in their subscription plan.
 * loyal customers should be targeted for premium membership specially Young Adult age-group.
 
+
+## 🛠 Skills
+
+* Python
+* Pandas
+* Power BI
+* DAX
+* Power query
+* Ms Power Point
+
+# Hi, I'm Kajal ! 👋
+
+
+## 🔗 Links and Contacts
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+[![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kajalbhadani1995)
+
