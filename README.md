@@ -1,4 +1,3 @@
-
 # Customer Shopping Behavior-Python | Power BI
 
 This project is created to analysis the customer behaviour. The company is somewhere lacking in Consumers understanding, their need
