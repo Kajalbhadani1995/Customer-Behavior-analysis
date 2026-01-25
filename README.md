@@ -57,3 +57,10 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 
 
 ## Recommendations
+
+* They Should focus more on promoting and Advertising their Company so that other people get to know about the company and they get new customer. 
+* Also they they should be giving monthly and seasonal discounts, this will attract more new customer as female customers are contributing less in sales so this will help. 
+* All the Categories are doing good after discount Applied so they can go with this strategy or they can give other discounts option to their customers.
+* 2847 customers have not taken the subscription so they should add more values or offers in their subscription plan.
+* loyal customer should be targeted for premium membership specially Young Adult age-group.
+* 
