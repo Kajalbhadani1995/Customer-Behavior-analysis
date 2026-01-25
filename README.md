@@ -52,4 +52,6 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 * Most purchased product by loyal customer is jewelry.
 * The company has got new customer in March and August and very less in October.
 * Male gender is contributing more in sales than Female which is $1,57,890.
-* They have got more Young Adult age-group customer and in that 699 YA customers are loyal but Middle aged age-group has more subscribers. 
+* They have got more Young Adult age-group customer and in that 699 YA customers are loyal but Middle aged age-group has more subscribers.
+* Each product is doing great after applying discounts.
+* Sandle is Top rated product with 4.0 ratings and Bottom Rated Product is Short with 3.5 ratings
