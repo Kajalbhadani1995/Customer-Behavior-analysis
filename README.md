@@ -11,7 +11,7 @@ This project is created to analysis the customer behaviour. The company is somew
 🔸Missing values in review_rating column was replaced using the average rating of the corresponding product
 🔸Standardized column names to snake_case
 
-#### 🔹Engineered new features:
+##### 🔹Engineered new features:
 
 🔸Created age_group columm
 
@@ -39,8 +39,6 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 
 ## Dashboard | Power BI
 
-
-
 ![image alt](https://github.com/Kajalbhadani1995/Customer-Behavior-analysis/blob/34b24adf040c99ace7c7f97ead0bdf50eb46267c/Customer%20behavior%20analysis.jpg) 
 
 ## 🔑 Key Insights & Findings
@@ -56,3 +54,6 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 * They have got more Young Adult age-group customer and in that 699 YA customers are loyal but Middle aged age-group has more subscribers.
 * Each product is doing great after applying discounts.
 * Sandle is Top rated product with 4.0 ratings and Bottom Rated Product is Short with 3.5 ratings
+
+
+## Recommendations
