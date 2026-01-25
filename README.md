@@ -45,4 +45,12 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 
 ## 🔑 Key Insights & Findings
 
-
+* The company is getting fewer new customers. 
+* Clothes category is being bought more by the young adults.
+* The company has got 1053 subscribed customer.
+* They are getting more sales from their loyal customers and the average age of the loyal customers is 44.
+* Although The company has 2721 loyal customers but only 759 customers have subscribed them.
+* Most purchased product by loyal customer is jewelry.
+* The company has got new customer in March and August and very less in October.
+* Male gender is contributing more in sales than Female which is $1,57,890.
+* They have got more Young Adult age-group customer and in that 699 YA customers are loyal but Middle aged age-group has more subscribers. 
