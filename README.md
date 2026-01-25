@@ -34,6 +34,7 @@ Additionally, the business does not have clear visibility into:
 8. How does purchase frequency differ by age group and product category?
 9. How do customer types differ in sales, behavior, and engagement?
 10. Which customer group contributes most to subscriptions?
+
 Without this understanding, the company risks inefficient marketing spend, poorly targeted promotions, ineffective discount strategies, and missed opportunities for customer lifetime value growth. Business Problem Statement
 
 ## Dashboard | Power BI
