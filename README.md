@@ -74,12 +74,12 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 * Power query
 * Ms Power Point
 
-# Hi, I'm Kajal ! 👋
+
 
 
 ## 🔗 Links and Contacts
 
-# Hi, I'm Kajal ! 👋
+### Hi, I'm Kajal ! 👋
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
 [![Github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kajalbhadani1995)
