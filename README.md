@@ -57,7 +57,7 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 * Sandle is Top rated product with 4.0 ratings and Bottom Rated Product is Short with 3.5 ratings
 
 
-## Recommendations
+## Recommendations 
 
 * They Should focus more on promoting and Advertising their Company so that other people get to know about the company and they will get new customers. 
 * Also they should be giving monthly and seasonal discounts, this will attract more new customers as female customers are contributing less in sales so this will help. 
