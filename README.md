@@ -13,7 +13,7 @@ This project is created to analysis the customer behaviour. The company is somew
 
 ##### 🔹Engineered new features:
 
-🔸Created age_group columm
+🔸Created age_group columm.
 
 🔸Created purchase_frequency_days column
 
