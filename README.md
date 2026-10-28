@@ -47,7 +47,7 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 * The company is getting fewer new customers. Only 83 of 3,900 customers (about 2%) are new.
 * Clothing is the top category in every age group, highest among Young Adults (41K).
 * The company has got 1053 subscribed customer.
-* They are getting more sales from their loyal customers which is $162690 and the average age of the loyal customers is 44.
+* They are getting more sales from their loyal customers which is $162,690 (about 70% of sales) and the average age of the loyal customers is 44.
 * Although The company has 2721 loyal customers but only 759 customers have subscribed them.
 * Most purchased product by loyal customer is jewelry.
 * Customer count peaks in March and August and is lowest in October..
