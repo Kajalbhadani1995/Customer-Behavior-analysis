@@ -51,7 +51,7 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 * Although The company has 2721 loyal customers but only 759 customers have subscribed them.
 * Most purchased product by loyal customer is jewelry.
 * Customer count peaks in March and August and is lowest in October..
-* Male gender is contributing more in sales than Female which is $157,890.
+* Male gender is contributing more in sales than Female which is $157,890 (67.74% of sales).
 * They have got more Young Adult age-group customer and in that 699 YA customers are loyal but Middle aged age-group has more subscribers.
 * About 43% of total sales (~$100K) came from discounted purchases.
 * Sandals is Top rated product with 4.0 ratings and Bottom Rated Product is Shirt with 3.5 ratings
