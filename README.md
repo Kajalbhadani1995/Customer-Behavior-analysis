@@ -28,11 +28,11 @@ Loaded cleaned data into Power BI for analysis and Visualization.
 In today’s competitive retail environment, understanding customer behavior is essential for improving profitability, retention, and long-term growth. The business currently collects large volumes of customer transaction data, but lacks a structured analytical approach to convert this data into meaningful business insights.
 The company is facing challenges in identifying:
 1. Which product category has consistent buying across all age groups?
-2. Which month shows sudden spike in new customers?
+2. Which months have the highest and lowest customer counts?
 3. Which age group has high purchase frequency but low spending amount?
-4. How much of the sales in each product category comes from discounted purchases?"
+4. How much of the sales in each product category comes from discounted purchases?
 5. What factors (age, gender, or category) most strongly influence customer spending?
-6. Which customer group should be targeted for premium memberships based on sales and loyalty?"?
+6. Which customer group should be targeted for premium memberships based on sales and loyalty?
 Additionally, the business does not have clear visibility into:
 7. Which age group is the most loyal even if their spending is low?
 8. How does purchase frequency differ by age group and product category?
@@ -53,7 +53,7 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 * They are getting more sales from their loyal customers which is $162,690 (about 70% of sales) and the average age of the loyal customers is 44.
 * Although The company has 2721 loyal customers but only 759 customers have subscribed them.
 * Most purchased product by loyal customer is jewelry.
-* Customer count peaks in March and August and is lowest in October..
+* Customer count peaks in March and August and is lowest in October.
 * Male gender is contributing more in sales than Female which is $157,890 (67.74% of sales).
 * They have got more Young Adult age-group customer and in that 699 YA customers are loyal but Middle aged age-group has more subscribers.
 * About 43% of total sales (~$100K) came from discounted purchases.
@@ -75,8 +75,8 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 * Pandas
 * Power BI
 * DAX
-* Power query
-* Ms Power Point
+* Power Query
+* Ms PowerPoint
 
 
 
