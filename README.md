@@ -45,7 +45,7 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 ## 🔑 Key Insights & Findings
 
 * The company is getting fewer new customers. Only 83 of 3,900 customers (about 2%) are new.
-* Clothes category is being bought more by the young adults.
+* Clothing is the top category in every age group, highest among Young Adults (41K).
 * The company has got 1053 subscribed customer.
 * They are getting more sales from their loyal customers which is $162690 and the average age of the loyal customers is 44.
 * Although The company has 2721 loyal customers but only 759 customers have subscribed them.
