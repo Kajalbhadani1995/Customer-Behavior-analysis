@@ -53,7 +53,7 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 * The company has got new customer in March and August and very less in October.
 * Male gender is contributing more in sales than Female which is $157,890.
 * They have got more Young Adult age-group customer and in that 699 YA customers are loyal but Middle aged age-group has more subscribers.
-* Each product is doing great after applying discounts.
+* About 43% of total sales (~$100K) came from discounted purchases.
 * Sandles is Top rated product with 4.0 ratings and Bottom Rated Product is Shirt with 3.5 ratings
 
 
@@ -61,7 +61,7 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 
 * They Should focus more on promoting and Advertising their Company so that other people get to know about the company and they will get new customers. 
 * Also they should be giving monthly and seasonal discounts, this will attract more new customers as female customers are contributing less in sales so this will help. 
-* All the Categories are doing good after discount Applied so they can go with this strategy or they can give other discounts option to their customers.
+* About 43% of sales came from discounted purchases, so discounts should be tracked against profit margin before being expanded.
 * 2847 customers have not taken the subscription so they should add more values or offers in their subscription plan.
 * loyal customers should be targeted for premium membership specially Young Adult age-group.
 
