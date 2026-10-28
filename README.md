@@ -54,7 +54,7 @@ Without this understanding, the company risks inefficient marketing spend, poorl
 * Male gender is contributing more in sales than Female which is $157,890.
 * They have got more Young Adult age-group customer and in that 699 YA customers are loyal but Middle aged age-group has more subscribers.
 * About 43% of total sales (~$100K) came from discounted purchases.
-* Sandles is Top rated product with 4.0 ratings and Bottom Rated Product is Shirt with 3.5 ratings
+* Sandals is Top rated product with 4.0 ratings and Bottom Rated Product is Shirt with 3.5 ratings
 
 
 ## Recommendations 
