@@ -1,4 +1,5 @@
 # Customer Shopping Behavior-Python | Power BI
+### Dataset: Customer Shopping Behavior Dataset (Kaggle), 3,900 customer records.
 
 This project analyzes customer shopping behavior for a retail company to understand customer needs, loyalty and subscription patterns
 
