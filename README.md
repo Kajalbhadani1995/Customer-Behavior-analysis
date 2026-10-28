@@ -1,6 +1,6 @@
 # Customer Shopping Behavior-Python | Power BI
 
-This project is created to analysis the customer behaviour. The company is somewhere lacking in Consumers understanding, their need
+This project analyzes customer shopping behavior for a retail company to understand customer needs, loyalty and subscription patterns
 
 ## Data cleaning & Processing
 
@@ -27,9 +27,9 @@ The company is facing challenges in identifying:
 1. Which product category has consistent buying across all age groups?
 2. Which month shows sudden spike in new customers?
 3. Which age group has high purchase frequency but low spending amount?
-4. Which product categories become less profitable when discounts are applied?
+4. How much of the sales in each product category comes from discounted purchases?"
 5. What factors (age, gender, or category) most strongly influence customer spending?
-6. Which customer group should be targeted for premium memberships based on profitability and loyalty?
+6. Which customer group should be targeted for premium memberships based on sales and loyalty?"?
 Additionally, the business does not have clear visibility into:
 7. Which age group is the most loyal even if their spending is low?
 8. How does purchase frequency differ by age group and product category?
