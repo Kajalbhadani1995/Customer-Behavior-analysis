@@ -1,4 +1,4 @@
-# Customer Shopping Behavior-Python | Power BI
+# Customer Segmentation & Retention Analysis | Python | Power BI
 
 ### Dataset: Customer Shopping Behavior Dataset (Kaggle), 3,900 customer records.
 
@@ -17,7 +17,7 @@ This project analyzes customer shopping behavior for a retail company to underst
 
 ##### 🔹Engineered new features:
  
-🔸Created age_group columm.
+🔸Created age_group column.
 
 🔸Created purchase_frequency_days column
 
