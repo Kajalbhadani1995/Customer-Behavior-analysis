@@ -16,7 +16,7 @@ This project analyzes customer shopping behavior for a retail company to underst
 🔸Standardized column names to snake_case
 
 ##### 🔹Engineered new features:
-
+ 
 🔸Created age_group columm.
 
 🔸Created purchase_frequency_days column
