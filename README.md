@@ -5,7 +5,7 @@
 
 This project analyzes customer shopping behavior for a retail company to understand customer needs, loyalty and subscription patterns
 
-## Data cleaning & Processing
+## Data cleaning & Processing 
 
 🔸Loaded Dataset and explored in python
 
