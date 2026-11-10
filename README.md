@@ -1,4 +1,4 @@
-# Customer Shipping Behaviour | Python | Power BI
+# Customer Shopping Behaviour | Python | Power BI
 
 ### Dataset: Customer Shopping Behavior Dataset (Kaggle), 3,900 customer records.
 
