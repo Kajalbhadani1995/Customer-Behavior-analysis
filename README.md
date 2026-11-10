@@ -13,7 +13,7 @@ This project analyzes customer shopping behavior for a retail company to underst
 
 🔸Missing values in review_rating column was replaced using the average rating of the corresponding product
 
-🔸Standardized column names to snake_case
+🔸Standardized column names to snake_case 
 
 ##### 🔹Engineered new features:
  
